@@ -127,6 +127,50 @@ border-radius: 20px;
 .ned{
   border-radius: 20px;
 }
+#topdest{
+  display: flex;
+  gap: 1%;
+  margin-left: 200px;
+  margin-top: 3%;
+}
+#ratingstar{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 5%;
+}
+.title{
+  text-align: center;
+  margin-top: 5%;
+}
+#blog{
+  text-align: center;
+  font-size: x-large;
+}
+#exploring{
+  background-image: url('images.html/sunrise.jpeg');
+  background-repeat: no-repeat;
+  height: 70vh;
+  background-size: contain;
+  /* padding: 200px 20px 20px 20px; */
+  /* margin-top: 200px; */
+  /* margin-bottom: 20%; */
+  color: white;
+  font-size: large;
+  
+}
+#florence{
+  display: flex;
+  gap: 3%;
+  margin-top:5%;
+  margin-left: 200px;
+  font-size: larger;
+}
+.arroww{
+  margin-left: 600px;
+  margin-bottom: 5%;
+}
+
+
   @media all and (min-width: 200px) and (max-width:1024px){
      body {
       margin-left: 10px;
